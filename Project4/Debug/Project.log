@@ -1,0 +1,3 @@
+﻿  Assembling Proj4_loyami.asm...
+LINK : warning LNK4076: invalid incremental status file 'C:\CS271\Project4\Debug\Project.ilk' (which will be deleted); linking nonincrementally
+  Project.vcxproj -> C:\CS271\Project4\Debug\Project.exe
